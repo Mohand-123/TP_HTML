@@ -27,8 +27,7 @@ Le site vitrine te permet de :
 Récupérer le projet
 Clone le dépôt avec :
 
-git clone https://github.com/ton-compte/1.1-shop.git
-
+git clone https://github.com/Mohand-123/TP_HTML.git
 Lancer le site
 
 
@@ -36,4 +35,5 @@ Lancer le site
 Ouvre `tphtml.html`
 Clique sur l’onglet Produits
 Sélectionne la Saucony Omni 9 et explore ses détails
+
 
