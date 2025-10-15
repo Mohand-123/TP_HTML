@@ -36,3 +36,4 @@ Lancer le site
 Ouvre `tphtml.html`
 Clique sur l’onglet Produits
 Sélectionne la Saucony Omni 9 et explore ses détails
+
